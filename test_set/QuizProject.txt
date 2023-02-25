@@ -1,0 +1,13 @@
+What is the smallest country?
+1. USA
+2. India
+3. Vatican City
+What is the biggest animal in the world?
+1. Elephant
+2. Blue Whale
+3. Great White Shark	
+How many elements are in the periodic table?
+1. 118 elements 
+2. 119 elements
+3. 200 elements
+
